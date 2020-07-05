@@ -1,0 +1,15 @@
+---
+title: 温湿度调节机
+subtitle: MCA电气箱
+layout: default
+modal-id: 2
+date: 2020-07-05
+img: mca.jpg
+thumbnail: mca-thumb.jpg
+alt: image-alt
+project-date: 2020年7月
+client: CNC系统电气控制柜、电源柜等
+category: 温湿度调节机
+description: 内外完全独立的密闭式空气循环，防止尘埃、油雾、潮气等进入电气箱内部。
+
+---

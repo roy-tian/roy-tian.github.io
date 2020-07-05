@@ -1,0 +1,15 @@
+---
+title: 制冷机组
+subtitle: 制冷机组
+layout: default
+modal-id: 3
+date: 2020-07-05
+img: wgm.jpg
+thumbnail: wgm-thumb.jpg
+alt: image-alt
+project-date: 2020年7月
+client: WGM系列
+category: 制冷机组系列
+description:  WGM系列制冷机组是为各种全封闭四氯乙烯溶剂干洗机、石油溶剂干洗机、皮毛系列干洗机配套的专用产品。
+
+---

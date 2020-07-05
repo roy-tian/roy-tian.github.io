@@ -1,0 +1,15 @@
+---
+title: 水冷却机
+subtitle: MCW水冷却机
+layout: default
+modal-id: 1
+date: 2020-07-05
+img: mcw.jpg
+thumbnail: mcw-thumb.jpg
+alt: image-alt
+project-date: 2020年7月
+client: 水冷
+category: 冷却机
+description: 采用高压静电喷塑处理，外观高雅别致，经久耐用。独特的内部结构设计，体积小，性能稳定，精巧美观。
+
+---

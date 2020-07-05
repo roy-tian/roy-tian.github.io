@@ -1,0 +1,27 @@
+url: https://roy-tian.github.io
+baseurl: 
+
+# Site settings
+title: 三河同飞制冷有限公司
+email: tfzl@tfzl.com
+# Write an awesome description for your new site here. You can edit this line in _config.yml.
+# It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+description: 集科研、开发、制造、销售、服务为一体的高新技术企业。 
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: weibo
+    url: http://tfzl.com
+  - title: wechat
+    url: 
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 河北省三河市
+  - line: 火车站进站路3号
+
+# Build settings
+markdown: kramdown
+permalink: pretty
